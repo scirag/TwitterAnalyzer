@@ -1,3 +1,4 @@
+![alt tag](https://github.com/scirag/TwitterAnalyzer/raw/master/web-crawler.jpg)
 # TwitterAnalyzer
 Twitter Usertimeline Crawler and Streaming API usage by Tweepy for bypassing Rate Limit
 
